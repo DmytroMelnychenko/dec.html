@@ -4,7 +4,6 @@
     background: #b0d2d3;
     display: flex;
     justify-content: space-around;
-
 }
 
 .box {
@@ -28,6 +27,7 @@
     font-size: 15px;
     color: grey;
 }
+
 .btn {
     width: 150px;
     height: 35px;
