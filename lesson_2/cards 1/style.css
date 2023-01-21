@@ -1,0 +1,38 @@
+.father {
+    width: 800px;
+    height: 390px;
+    background: #b0d2d3;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.box {
+    width: 220px;
+    height: 300px;
+    border: 2px solid gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    grid-gap: 50px;
+    align-items: center;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.title {
+    font-size: 20px;
+}
+
+.txt {
+    font-size: 15px;
+    color: grey;
+}
+.btn {
+    width: 150px;
+    height: 35px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
