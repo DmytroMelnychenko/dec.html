@@ -26,6 +26,8 @@
 .txt {
     font-size: 15px;
     color: grey;
+    width: 180px;
+    text-align: center;
 }
 
 .btn {
