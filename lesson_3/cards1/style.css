@@ -1,0 +1,58 @@
+.father {
+    width: 800px;
+    height: 390px;
+    background: #b0d2d3;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box {
+    width: 220px;
+    height: 300px;
+    border: 2px solid gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    grid-gap: 40px;
+    align-items: center;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.inner {
+    width: 80px;
+    height: 80px;
+    background: #b0d2d3;
+    position: absolute;
+    top: +20px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.btn {
+    width: 150px;
+    height: 35px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #b0d2d3;
+}
+
+.txt {
+    font-size: 15px;
+    color: grey;
+    width: 190px;
+    text-align: center;
+}
+.title {
+    font-size: 20px;
+}
+
+.fa-desktop, .fa-futbol, .fa-martini-glass-empty {
+    font-size: 25px;
+}
