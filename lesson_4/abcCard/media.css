@@ -1,0 +1,28 @@
+@media (min-width: 390px) and (max-width: 844px) {
+
+    .boxa {
+        width: 365px;
+        border-radius: 25px;
+        height: 200px;
+    }
+
+    .boxmedia {
+        width: 365px;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .boxb {
+        width: 365px;
+        border-radius: 25px;
+        height: 400px;
+    }
+
+    .boxc {
+        width: 365px;
+        border-radius: 25px;
+        height: 200px;
+        margin-top: 10px;
+
+    }
+}
